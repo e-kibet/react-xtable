@@ -7,11 +7,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <table className='table'>
-          <div>
-            <div>headering is</div>
-          </div>
           <thead>
-            <tr style={{ backgroundColor: '#F3F2F1', fontSize: '17px', padding: '30px' }}>
+            <tr style={{ border: '2px solid red', fontSize: '17px', padding: '30px' }}>
               {headers.map((d, i) => {
                 return <td key={i}>{d.name}</td>
               })}
