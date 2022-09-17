@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <table className="table">
+        <table className="table" data-testid="table">
           <thead>
             <tr
               style={{

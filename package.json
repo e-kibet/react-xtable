@@ -1,6 +1,7 @@
 {
   "name": "react-xtable",
   "version": "0.1.0",
+  "homepage": "https://e-kibet.github.io/react-xtable",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
