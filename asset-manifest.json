@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-xtable/static/css/main.86f6f628.css",
+    "main.js": "/react-xtable/static/js/main.5191efd8.js",
+    "static/js/787.68b2250d.chunk.js": "/react-xtable/static/js/787.68b2250d.chunk.js",
+    "index.html": "/react-xtable/index.html",
+    "main.86f6f628.css.map": "/react-xtable/static/css/main.86f6f628.css.map",
+    "main.5191efd8.js.map": "/react-xtable/static/js/main.5191efd8.js.map",
+    "787.68b2250d.chunk.js.map": "/react-xtable/static/js/787.68b2250d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86f6f628.css",
+    "static/js/main.5191efd8.js"
+  ]
+}
