@@ -10,7 +10,7 @@ function App() {
           <thead>
             <tr
               style={{
-                border: "2px solid red",
+                border: "4px solid blue",
                 fontSize: "17px",
                 padding: "30px",
               }}
